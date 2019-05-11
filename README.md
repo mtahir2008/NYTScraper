@@ -3,10 +3,10 @@
 ![](./public/assets/images/screenshot.png)
 ### Overview
 A web app utilizes below technologies to let users view latest news Buzz!!
-MongoDB
-Mongoose
-Cheerio
-Express
+- MongoDB
+- Mongoose
+- Cheerio
+- Express
 
 ### Technologies Used
 HTML
